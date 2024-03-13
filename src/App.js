@@ -8,7 +8,7 @@ function App() {
     <div>
       <h1>Todo App</h1>
       <Todo />
-      <TodoLists />
+      <TodoLists />   
     </div>
   );
 }
